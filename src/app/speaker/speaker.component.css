@@ -1,0 +1,29 @@
+.header{
+    padding: 10ex;
+    text-align: center;
+    background: linear-gradient(90deg,#360033 0%,#0b8793 35%);
+}
+h1, h4{
+    color: rgb(255, 255, 255);
+}
+span{
+    color: rgb(197, 6, 6);
+}
+img{
+    width: 20ex;
+    height: 20ex;
+    border-radius: 2ex;
+}
+.row{
+    margin-left: 5ex;
+    margin-top: 8ex;
+}
+h5{
+    margin-top: 2ex;
+    color: #0b8793;
+}
+img:hover{
+ width: 18ex;
+ width: 18ex;
+ animation-duration: 0.6ms;
+}

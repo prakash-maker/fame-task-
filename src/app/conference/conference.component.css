@@ -1,0 +1,66 @@
+.navbar-light .navbar-brand {
+    color: rgb(221, 1, 184);
+    margin-left: 3ex;
+}
+.details{
+    background: linear-gradient(90deg, #520a68 0%,#191654 35%);
+    padding: 50px;
+}
+h1{
+    color: rgb(247, 247, 247);
+    
+}
+h2{
+    margin-top: 2ex;
+    color:  rgb(255, 255, 255);
+}
+span{
+    color: rgb(20, 165, 248);
+}
+h4{
+    margin-top: 2ex;
+    color: aliceblue;
+}
+p{
+    width: 80%;
+    color: rgb(255, 255, 255);
+    margin-top: 3ex;
+   
+}
+.btn{
+    widows: 50%;;
+    margin-top: 4ex;
+    margin-left: auto;
+}
+.row>* {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x)/ 2);
+    padding-left: 5ex;
+    margin-top: var(--bs-gutter-y);
+    padding: 10ex;
+    margin-left: 6ex;
+}
+h5{
+    margin-top: 2ex;
+}
+.about{
+    padding: 10ex;
+    background-color: #002838;
+}
+.subs{
+    padding: 10ex;
+    text-align: center;
+    background-color: #191654;
+}
+.form-group{
+    width: 60%;
+    margin: auto;
+    margin-top: 2ex;
+    align-content: center;
+    
+}
+label{
+    color: aqua;
+}

@@ -1,0 +1,24 @@
+.header{
+    padding: 10ex;
+    text-align: center;
+    background: linear-gradient(90deg,#780206 0%,#061161 90%);
+}
+h1{
+    color: rgb(255, 30, 68);
+}
+.btn{
+    margin-top: 2ex;
+}
+img{
+    width: 25ex;
+    height: 10ex;
+    margin-left: 8ex;
+    margin-top: 10ex;
+}
+.row{
+    padding-top: 5ex;
+    padding-bottom: 1ex;
+}
+h6{
+    color:  rgb(255, 89, 117);
+}
